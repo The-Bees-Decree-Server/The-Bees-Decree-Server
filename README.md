@@ -8,9 +8,9 @@ I am not supposed to give my opinion, but give it a try, and then tell me did yo
 <br>
 <br>
 <font size="+3"><b>
-Currently working on a few minor piece/decor mods- for The Bees' Decree Server :bee:
+Mods from my Hive, The Bees' Decree Server :bee:
 <p>
-Some code things can be found here.
+Some codie things can be found here.
 </font></b>
 <br>
 <br>
