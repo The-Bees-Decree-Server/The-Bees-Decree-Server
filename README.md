@@ -8,10 +8,10 @@ I am not supposed to give my opinion, but give it a try, and then tell me did yo
 <br>
 <br>
 <font size="+3"><b>
-Mods from my Hive, The Bees' Decree Server :bee:
+Mods from The Hive, The Bees' Decree Server :bee:
 <p>
 Some codie things can be found here.
 </font></b>
 <br>
 <br>
-Need something? Just wanna say High? Bark up my tree on discord https://discord.com/channels/897297886012911656/897924123349639168
+Need something? Just wanna say high? Come, take a seat, on discord https://discord.com/channels/897297886012911656/897924123349639168
