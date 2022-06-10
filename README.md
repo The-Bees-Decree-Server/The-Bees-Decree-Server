@@ -14,13 +14,6 @@ Some codie things can be found here.
 </font></b>
 <br>
 <br>
-<p align="center"><h2>For Questions or Comments find me in the Odin Plus Team Discord:</h2></p>
+<p align="center"><h2>For Questions or Comments: ask in the Odin Plus Team Discord:</h2></p>
 
 <p align="center"><a href="https://discord.gg/mbkPcvu9ax"><img src="https://i.imgur.com/CnISY4u.png"></a></p>
-
-or
-
-
-<p align="center"><h2> You can find me, (@Aseτιa) at my Hive, The Bees Decree::</h2></p>
-
-<p align="center"><a href="https://discord.gg/s4sPPccs"><img src="https://i.imgur.com/b2LTSow.png"></a></p>
