@@ -15,4 +15,4 @@ Some codie things can be found here.
 <br>
 <br>
 
-<p align="center"><a href="https://discord.gg/mbkPcvu9ax"><img src="https://i.imgur.com/CnISY4u.png"></a></p>
+<p align="center"><a href="https://discord.gg/Kwr9Fff3DF"><img src="https://i.imgur.com/yEMojnR.png"></a></p>
