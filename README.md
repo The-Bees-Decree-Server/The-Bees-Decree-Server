@@ -17,5 +17,5 @@ Some codie things can be found here.
 
 <p align="center"><a href="https://discord.gg/Kwr9Fff3DF"><img src="https://i.imgur.com/NQNJtFF.png"></a></p>   
 <p>   
-Please direct all questions and issues to our GITHUB pages, please do not come into our server discord for mod help. Our discord is soley for our servers game play use. But if your looking for a unique modded playthrough come check us out!
+Please direct all questions and issues to our GITHUB pages, please do not come into our server discord for mod help. Our discord is soley for our servers game play use. But if your looking for a unique (heavily) modded playthrough come check us out!
  
